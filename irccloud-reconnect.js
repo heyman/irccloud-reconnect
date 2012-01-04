@@ -4,9 +4,9 @@
 // @author        Jonatan Heyman, http://heyman.info
 //
 // @include       http://irccloud.com/*
-// @include		  https://irccloud.com/*
+// @include	      https://irccloud.com/*
 // @include       http://www.irccloud.com/*
-// @include		  https://www.irccloud.com/*
+// @include	      https://www.irccloud.com/*
 // ==/UserScript==
 
 
